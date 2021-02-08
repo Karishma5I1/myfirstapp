@@ -1,0 +1,42 @@
+{
+    "profiles":[
+        {
+            "name":"n.rajesh",
+            "role":"trainer",
+            "email":"karishma@gmail.com",
+            "education":[
+                {
+                    "sname":"zph school",
+                    "per":80,
+                    "yop":2007
+                },
+                {
+                    "sname":"hjfgh college",
+                    "per":90,
+                    "yop":2019
+                },
+                {
+                    "sname":"nec college",
+                    "per":80,
+                    "yop":2023
+                }
+
+            ]
+        },
+    
+    
+        {
+            "name":"sk.karishma",
+            "role":"trainer1",
+            "email":"karishma@gmail.com"
+        },
+    
+
+
+    {
+        "name":"n.rajesh",
+        "role":"trainer",
+        "email":"karishma@gmail.com"
+    }
+    ]
+}
